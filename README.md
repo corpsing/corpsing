@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @corpsing
+- 👀 I’m interested in illustration and front-end web development. Also, piercings and tattoos.
+- 🌱 I’m currently learning HTML and CSS (first things first).
+- 💞️ I’m looking to collaborate on whatever I can. 
+- 📫 How to reach me: corpsing @ several social networks. 
